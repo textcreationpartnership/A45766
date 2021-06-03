@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The importance of public credit</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45766</idno><idno type="EEBO-CITATION">99827744</idno>
+  <idno type="VID">32167</idno>
+  <idno type="EEBO-PROQUEST">2248496932</idno>
+  
+            <idno type="STC">Wing I101</idno>
+            <idno type="STC">ESTC R215989</idno>
+            <idno type="PROQUEST">99827744</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827744e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32167)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1851:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The importance of public credit</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year 1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from colophon.</note>
+                  <note>Below colophon: Price 2d.</note>
+                  <note>Reproduction of the original in the University of London Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Debts, Public --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:32167:1"/>
+            <pb n="1" facs="tcp:32167:1"/>
+            <head>THE IMPORTANCE OF Publick Credit.</head>
+            <p>THose that cannot be subdued by open Force, may be undermined by Art: Our Enemies are sensible of this; and having long tried the first in vain, are making their last Efforts by the other: they well know that the <hi>English,</hi> while unanimous and prudent, are invincible; and that all the Misfortunes which are found in History to have hap<g ref="char:EOLhyphen"/>pen'd to them, from the first entry of the <hi>Romans</hi> to this day, were occasioned chiefly by their own Divisions, the only way by which they have, and may be again overcome and ruined.</p>
+            <p>At present we shall not take notice of any other of their De<g ref="char:EOLhyphen"/>signs, than that they have formed for destruction of the Publick Credit, at a time when a neighbouring Prince, their sure Friend, and our no less certain Enemy, is amassing such vast Treasures. They well know that we have been chiefly supplyed by such as are well affected to the Revolution; these are the Men they desire should suffer for furnishing Supplies their Party has sunk under; and if they could once give them and others just cause to forbear future Loans, when there may be occasion for them, they would have no cause to despair one day of retrieving their lost Cause.</p>
+            <pb n="2" facs="tcp:32167:2"/>
+            <p> In order to this the Publick Credit must be represented as of the utmost disadvantage to the Nation, a Clog and Burden for the time past, and full of future danger if continued. They <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ment the great Sums raised every Year to pay Interest, An<g ref="char:EOLhyphen"/>nuities, <hi>&amp;c.</hi> they think the Purchasers of Funds have had too good Bargains; that Deficiencies need not be made good tho pro<g ref="char:EOLhyphen"/>mised by Parliament; and that the Publick ought to be eased, by lessening the Advantages those that have supplied it think themselves intituled to. Pretence of Friendship is often a co<g ref="char:EOLhyphen"/>ver to the most treacherous Designs; and the generality being more inclined to swallow, than weigh Proposals of Advan<g ref="char:EOLhyphen"/>tage to them, it is no wonder if they have pravailed on some Persons to think well of their Designs, who are not aware of the Consequence.</p>
+            <p>Some Gentlemen who have suffered much under the great and necessary Charge of the War, are without difficulty pre<g ref="char:EOLhyphen"/>vailed upon to be angry, especially when they see an overgrown Stock-jobber's Estate swelled to such a Bulk in so small a time, by dealing in the Funds. From Envy to Ill-will is an easy step, which being once taken, all Arguments seem of weight that side with our Passions: how easy is it to convince such a one that Publick Credit is of the last ill Consequence, that it makes a Nation prodigal, Stock-jobbers only fat, and Gentlemen lean; and (as some have ventured to speak out plainly) that it ought to be destroyed, that we may never be trusted again; tho o<g ref="char:EOLhyphen"/>thers more modest or cautious, will not speak so plain, lest ad<g ref="char:EOLhyphen"/>vising a publick Knavery, should discover too much of their private Honesty. These would have it only by a side Wind, by the help of Clauses, Explanations, and such like Arts; which differs from the former, only as picking of Pockets does from Robbery. It is to be hoped no Gentlemen will be found of this number, who on another occasion have shewed their great Zeal, that the Justice of <hi>Westminster-Hall</hi> (as they were pleased to call the Common Forms) should take place of the Legislative Right, and Publick Good.</p>
+            <pb n="3" facs="tcp:32167:2"/>
+            <p> It were to be wish'd that Arguments founded on Justice and Honour, were allowed their due Weight, and that we were fully convinced that whatever Ill a Man consents to in consort, is full as criminal as if it were his single Act; there would then be no need of recourse to any other in this case. But since the temper of the Age is such, that one Argument drawn from In<g ref="char:EOLhyphen"/>terest, outweighs forty others; these Gentlemen will do well to consider, whether the destruction, or impairing of the Pub<g ref="char:EOLhyphen"/>lick Credit (besides the infamy of the Fact) would not have the following Consequences.</p>
+            <p>Would it not reflect very much on those who have establish<g ref="char:EOLhyphen"/>ed the Funds, and allowed the Interest, and other Advantages on them, as guilty of the greatest Imprudence and Prodigality, destroying thereby that respect which the Publick Good re<g ref="char:EOLhyphen"/>quires every Man should bear them? for on Conduct, steady as a Rock, all wise Men will build; but on Folly, Unsteadiness, and Incertainty, none in their senses will rely.</p>
+            <p>Whether it be not possible such an Emergency many happen, that without Credit enough to raise a great Sum on the sudden, all may be in danger? and whether the Consequences on that side will not be infinitely worse than on the other?</p>
+            <p>And whenever there happens any pressing Occasion to sup<g ref="char:EOLhyphen"/>ply the Publick, if any Credit can be found, must we not pay much dearer for future Supplies? Will any Nan lend his Mo<g ref="char:EOLhyphen"/>ney to those that have it in their power to lessen, or wholly re<g ref="char:EOLhyphen"/>assume the Security once given, especially when he knows it to have been their former practice? It such Men could be found, it must be on Terms much more disadvantageous than any that have been yet given; for where People have such reason to be sensible of their Danger, they must be tempted with extraordi<g ref="char:EOLhyphen"/>nary Premium and Interest. Thus shall we pay dear for what these Projectors would now save. After such an Action all Per<g ref="char:EOLhyphen"/>sons would avoid dealing with the Publick, as they would with a Bankrupt: Provisions, Stores, Transports, <hi>&amp;c.</hi> must be
+<pb n="4" facs="tcp:32167:3"/>wanting, or procured on extravagant Terms. Should it be thought fit to erect new Funds, who would deal for them? Should there be any forfeited Lands to be sold, who would purchase of such as could reassume all, lessen old, or make new Bargains at their pleasure, and whose Wills could by Pre<g ref="char:EOLhyphen"/>cedent be proved to be as large as their Power? Suppose after such an Action they should propose to sell at eight Years Pur<g ref="char:EOLhyphen"/>chase, who would meddle with them? for may not such Pur<g ref="char:EOLhyphen"/>chasers be hereafter told, that their Bargain was too good, the Lands were worth eighteen, and they must make up that Sum? In this Article alone (not to mention many other future Con<g ref="char:EOLhyphen"/>tingences) more might be lost than these Projectors can now propose to save.</p>
+            <p>As to the great Estates gotten of late by some dealers in the Funds, if it be considered that they have run the hazard of losing all, even their Principal, by the uncertain Event of War, what reason is there to grudg them an Advantage scarce proportion'd to their Danger? And since all men had the same liberty of gaining by them, no man can have any reasonable ground for Envy or Ill-will, for it is entirely owing to his own misfortune, or folly, that he did not make the like ad<g ref="char:EOLhyphen"/>vantage: And he must be very dull who has not remarked, that since the Publick Funds have had a Jog (not yet forgot<g ref="char:EOLhyphen"/>ten) Stock-jobbers have got double what they did before; a plain proof that those whom Envy transports to such a re<g ref="char:EOLhyphen"/>venge, would but thereby encrease the Profit of such Persons, and the Publick Loss.</p>
+            <p>On this occasion some Persons cannot be forgot, who at the beginning of this Revolution scattered their Politicks freely in all places: few people forget their Maxims, That Taxes ought to be laid so, as being least easy to the People, they might be bore with some difficulty; that other Methods would, as it were, use the People to an easy Yoke, a Course they thought that might in time prove of dangerous consequence
+<pb n="5" facs="tcp:32167:3"/>to the Publick; Excises, and such other Methods as some thought might have raised the necessary Supplies within the several years, and have prevented the great Gains of Stock-jobbers, were then thought by them of the utmost danger; and many of the best men among us, who proposed them were branded as Publick Enemies, that designed the betraying of their Country to Arbitrary Power, and Slavery; all Places and Companies were filled with their Declamations on this Head. Their Intentions were not then suspected to be what time has shewed them, therefore all this was attributed to their Zeal for the Publick; and tho the Thread of their Politicks seemed so wonderfully fine, that few could discern it but them<g ref="char:EOLhyphen"/>selves, they wanted not followers who admired for profound what was not intelligible, and were willing to appear of a Party that seemed to have a clearer prospect of future Events than their Neighbours. What fatal Influence this sort of Poli<g ref="char:EOLhyphen"/>ticks has had on Affairs, there is little pleasure in recollecting; but certainly it is sufficient to convince the world that excess of Prudence, and Folly, are near Neighbours.</p>
+            <p>If these Gentlemen then should be found among the most violent Complainers of what they themselves have chiefly occasioned, let the World judg with what Reason; the World which has sufficiently observed the extraordinary simpathy that has been, and still continues between them and the profest Enemies of this Revolution. Did our Enemies wish Taxes might be raised with difficulty? so did they. Will any one doubt that our Enemies wish the destruction of Credit? so do these our pretended Friends. Our Enemies it seems are come about to our Interests, or these our Friends have out-witted them, things equally credible; but the truth is, to distinguish between such Friends, and Enemies, is a distinction without a difference.</p>
+            <p>The Consequence of Publick Credit had been so well under<g ref="char:EOLhyphen"/>stood in all well-governed Nations, that to break it has ever
+<pb n="6" facs="tcp:32167:4"/>been esteemed rooting up the very Foundations of a State. With the <hi>Greeks</hi> and <hi>Romans,</hi> what was more sacred, and inviolable? And tho in those Ages the Publick Faith did not so frequently concern pecuniary Payments, yet doth not that make any difference as to the Consequence. Among Modern Princes and States, even with the most Arbitrary, what is more inviolable than Publick Funds? two such Prices in Chris<g ref="char:EOLhyphen"/>tendom paying away every year a great part of their Revenue on that account, and most of it for Sums borrowed by their Ancestors. It is well known that great Loans have been for<g ref="char:EOLhyphen"/>merly made to the See of <hi>Rome,</hi> by which the Pope's Revenue is much incumbred, and pays every year vast Sums for Interest of Mony borrowed by his Predecessors; and tho this does, and has for many years past much exhausted the Apostolick Cham<g ref="char:EOLhyphen"/>ber, and be so heavy an Incumbrance on the See of <hi>Rome,</hi> yet no Pope (who in other things claims power to dispense with the Laws of God and Man) would ever attempt a thing so barbarous, impolitick, and without Precedent in any wise State, as to break the Publick Faith; not one of them would ever attempt so much as to reduce the Interest but by con<g ref="char:EOLhyphen"/>sent of the Creditors; in order to which one Pope having provided a great Sum of Mony, caused notice to be given that those who would not accept a less Interest, should take their Principal, which few would do when they found the Security so good.</p>
+            <p>The Apostolick Chamber, and Bank of <hi>Amsterdam,</hi> have Mony cheaper than others can have on private Security; which plainly shews, that the truest, as well as the most honest way of supplying the Publick at a cheaper rate, and thereby lessening the Taxes, is, not by the little tricking Arts of these infamous Projectors, but by punctual and steady dealing.</p>
+            <p>It were easy to shew out of History in many Instances, what ill Effects the breach of Publick Faith has produced.
+<pb n="7" facs="tcp:32167:4"/>
+               <hi>Henry</hi> the <hi>Third</hi> of <hi>France</hi> having called an Assembly of the States General at <hi>Blois,</hi> on security of the Publick Faith pre<g ref="char:EOLhyphen"/>vailed with the Duke of <hi>Guise,</hi> and his Adherents, to put themselves into his power. His own weakness, or the ill ad<g ref="char:EOLhyphen"/>vice of some about him, made him think it his Interest to break through an Obligation so sacred; and by the death of the Duke, and others of his Party, to save as he thought much Treasure, and Blood, and become safe and easy on his Throne. But he soon had cause to repent of his Folly, for after that action no man would ever trust him, he never had a quiet Mo<g ref="char:EOLhyphen"/>ment, short and turbulent was the rest of his Reign, and his end tragical. The Instance of his Contemporary <hi>Philip</hi> the Second of <hi>Spain</hi> may come nearer our case. In his Wars of <hi>Flanders</hi> he had been often supplyed with Mony by the Mer<g ref="char:EOLhyphen"/>chants of <hi>Antwerp,</hi> to the great advantage of his Affairs; but a piece of such good Husbandry as we are advised, came into his head: Those Tally-jobbing Merchants of <hi>Antwerp</hi> he thought had got too much by lending him Mony, therefore his profound Wisdom thought it convenient to break his Faith with them, in moderating their Gains (as the Historian words it) by which he seemed perhaps to have saved forty or fifty thousand Pounds. But what followed? in the next line we are told, that neither they, nor any other, would trust him any more, which in few days was the occasion of his losing the then great City of <hi>Amiens,</hi> and after of infinite Desertions and Mutinies of his Armies for want of Pay, by which his Affairs were wonderfully raterded, and those of his Enemies much advanced. And in short, this ungenerous, and impo<g ref="char:EOLhyphen"/>litick Action contributed not a little to his loss of many Pro<g ref="char:EOLhyphen"/>vinces, as by the sequel of that Story plainly appears.</p>
+            <p>Our Enemies wish for nothing more than to have such influ<g ref="char:EOLhyphen"/>ence on Publick Counsels, as to render them violent and tumul<g ref="char:EOLhyphen"/>tuos, unsteady, vain, and precarious; they know that in such case most men would endeavor to avoid Quick-sands,
+<pb n="8" facs="tcp:32167:5"/>and that like drowning men we might be prevailed on at last to catch hold of their Bulrush.</p>
+            <p>Nothing can be equal their past Follies, but their present Hopes that <hi>England</hi> (no secure from every danger but our own Indiscretion) can be brought by their Methods to give up its Liberties that are so well secured, and all the Honour gained in such a long and chargeable War; in which we doubt not but they will be as much disappointed for the future, as they have been for the time past.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year 1699.</p>
+            <p>Price 2<hi>d.</hi>
+            </p>
+            <pb facs="tcp:32167:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
